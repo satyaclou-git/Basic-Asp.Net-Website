@@ -15,7 +15,7 @@
     <span class="auto-style1">&nbsp;<span class="auto-style2"><em>XYZ, kuruluşundan bugüne tek bir amaca odaklandı; En uygun fiyata kaliteli ürünleri müşterilerimize ulaştırmak. Bu iddiamıza sahip çıkmak için her gün yeni mağazalar açıyor, ülkenin en ücra noktalarına, vatandaşlarımızın hak ettiği hizmeti ulaştırmaya çalışıyoruz. </em></span></span>
 </p>
 <p>
-    <em>&nbsp; </em><span class="auto-style1"><span class="auto-style2"><em>Bu amaç için; Türkiye’nin 81 ilinde, 890 ilçesinde, 6850 mahallesinde, günde yaklaşık 2,5 milyon kez mağazalarımızı ziyaret eden müşterilerimize; ucuz, kaliteli ve yenilikçi hizmetleri sunmaya devam edeceğiz.</em></span></span></p>
+    <em>&nbsp; </em><span class="auto-style1"><span class="auto-style2"><em>Bu amaç için; Türkiye’nin 81 ilinde, English -1 ilçesinde, English 1 mahallesinde, günde yaklaşık 2,5 milyon kez mağazalarımızı ziyaret eden müşterilerimize; ucuz, kaliteli ve yenilikçi hizmetleri sunmaya devam edeceğiz.</em></span></span></p>
 <p>
 </p>
 <p>
